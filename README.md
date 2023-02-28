@@ -1,3 +1,4 @@
 # a-consent-management-webpage
 
-This is a webpage I use to practice an implementation of the consent management platform using GTM.
+This is a webpage I use to practice the consent management implementation using GTM.
+
